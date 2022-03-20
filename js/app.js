@@ -1,4 +1,3 @@
-
 const clock = document.querySelector("#clock")
 
 CurrentTime();
