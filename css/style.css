@@ -3,6 +3,10 @@ body{
     
 }
 
+.hidden{
+    display: none;
+}
+
 div{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 24px;
